@@ -11,8 +11,9 @@
     "lint": "eslint src --fix"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.5.2"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.27.0",
@@ -31,5 +32,4 @@
     "prettier": "^3.5.3",
     "vite": "^6.3.1"
   }
- 
 }
